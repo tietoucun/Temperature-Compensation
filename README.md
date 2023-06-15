@@ -4,7 +4,9 @@ This is the codebase for the paper: DNTC: An Unsupervised Deep Networks for Temp
 
 ## Architecture
 
-![arch](./TC/DNTC/fig/Model.pdf)
+![arch](./TC/DNTC/fig/Model.png)
+
+![arch](./TC/DNTC/fig/ED.png)
 
 ### Pooling module
 
@@ -36,14 +38,13 @@ For multivariate compensation results, comparison rate CR of DNTC with baseline 
 
 ![arch](./TC/DNTC/fig/DNTC-PRTC.png)
 
-
 ### Ablation studies
 
 To evaluate the role of each component in our proposed compensation framework, we removed or replaced the corresponding components and observed how these variations affect the compensation performance on each dataset.
 
-![arch](./TC/DNTC/fig/Ab_cr.pdf)
+![arch](./TC/DNTC/fig/Ab_cr.png)
 
-![arch](./TC/DNTC/fig/Ab_time.pdf)
+![arch](./TC/DNTC/fig/Ab_time.png)
 
 ## Acknowledgement
 
