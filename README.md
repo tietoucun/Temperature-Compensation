@@ -46,6 +46,10 @@ To evaluate the role of each component in our proposed compensation framework, w
 
 ![arch](./TC/DNTC/fig/Ab_time.png)
 
+## Contact
+
+If you have any questions or want to use the code, please contact 1437616324@qq.com.
+
 ## Acknowledgement
 
 This repo is built on the [Nonstationary_Transformers repo](https://github.com/thuml/Nonstationary_Transformers), we appreciate the authors a lot for their valuable code and efforts.
