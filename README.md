@@ -27,7 +27,7 @@ Its input is provided by both the pooling module and the generation module. This
 ```
 pip install -r requirements.txt
 ```
-2. All the 9 datasets can be obtained from [Baidu Cloud](https://pan.baidu.com/s/1DNyTLASd8weINinm1yuVQA?pwd=6o0d), [Ali Cloud](https://www.aliyundrive.com/s/Yd76C8UNV5a).
+2. All the 9 datasets can be obtained from [Baidu Cloud](https://pan.baidu.com/s/1DNyTLASd8weINinm1yuVQA?pwd=6o0d), [Google Drive](https://drive.google.com/drive/folders/1056aydLwMF8AtmXssRWqxQO-rvFXnPfI?usp=drive_link).
 
 ## Experiment Results
 
