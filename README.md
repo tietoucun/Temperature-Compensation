@@ -1,6 +1,6 @@
 # Temperature-Compensation
 
-This is the codebase for the paper: DNTC: An Unsupervised Deep Networks for Temperature Compensation in Non-stationary Data.
+This is the codebase for the paper: [DNTC: An Unsupervised Deep Networks for Temperature Compensation in Non-stationary Data](https://www.sciencedirect.com/science/article/pii/S0952197623015038).
 
 ## Architecture
 
